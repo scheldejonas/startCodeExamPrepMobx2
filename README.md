@@ -1,4 +1,4 @@
-## This project is (only) meant as the start code for an exercise given at 3. semester programming at:
+## This project is (only) meant as the start code for an exercise given at 3. semester programming at: 
 [Computer Science at cphbusiness](https://www.cphbusiness.dk/english/study-programmes/ap-degree/computer-science/
 )
 
