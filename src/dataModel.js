@@ -26,6 +26,6 @@ class StudentInfoFactory {
 let info = new StudentInfoFactory();
 
 //This is only for debugging purposes
-window.info = info.studentInfo;
+window.info = info.studentsInfo;
 
 export default info;
